@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: DOCKERHUB_USERNAME/python-helloworld:latest
+          tags: khalidalrifai/python-helloworld:latest
